@@ -1,0 +1,16 @@
+C:\Users\kulde\source\repos\Note_Making_App_Group1\Note_Making_App_Group1\Note_Making_App_Group1\bin\Debug\netstandard2.0\Note_Making_App_Group1.deps.json
+C:\Users\kulde\source\repos\Note_Making_App_Group1\Note_Making_App_Group1\Note_Making_App_Group1\bin\Debug\netstandard2.0\Note_Making_App_Group1.dll
+C:\Users\kulde\source\repos\Note_Making_App_Group1\Note_Making_App_Group1\Note_Making_App_Group1\bin\Debug\netstandard2.0\ref\Note_Making_App_Group1.dll
+C:\Users\kulde\source\repos\Note_Making_App_Group1\Note_Making_App_Group1\Note_Making_App_Group1\bin\Debug\netstandard2.0\Note_Making_App_Group1.pdb
+C:\Users\kulde\source\repos\Note_Making_App_Group1\Note_Making_App_Group1\Note_Making_App_Group1\obj\Debug\netstandard2.0\Add_Note.xaml.g.cs
+C:\Users\kulde\source\repos\Note_Making_App_Group1\Note_Making_App_Group1\Note_Making_App_Group1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kulde\source\repos\Note_Making_App_Group1\Note_Making_App_Group1\Note_Making_App_Group1\obj\Debug\netstandard2.0\Edit_Note.xaml.g.cs
+C:\Users\kulde\source\repos\Note_Making_App_Group1\Note_Making_App_Group1\Note_Making_App_Group1\obj\Debug\netstandard2.0\Note_Page.xaml.g.cs
+C:\Users\kulde\source\repos\Note_Making_App_Group1\Note_Making_App_Group1\Note_Making_App_Group1\obj\Debug\netstandard2.0\Note_View.xaml.g.cs
+C:\Users\kulde\source\repos\Note_Making_App_Group1\Note_Making_App_Group1\Note_Making_App_Group1\obj\Debug\netstandard2.0\Note_Making_App_Group1.AssemblyInfoInputs.cache
+C:\Users\kulde\source\repos\Note_Making_App_Group1\Note_Making_App_Group1\Note_Making_App_Group1\obj\Debug\netstandard2.0\Note_Making_App_Group1.AssemblyInfo.cs
+C:\Users\kulde\source\repos\Note_Making_App_Group1\Note_Making_App_Group1\Note_Making_App_Group1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kulde\source\repos\Note_Making_App_Group1\Note_Making_App_Group1\Note_Making_App_Group1\obj\Debug\netstandard2.0\Note_Making_App_Group1.dll
+C:\Users\kulde\source\repos\Note_Making_App_Group1\Note_Making_App_Group1\Note_Making_App_Group1\obj\Debug\netstandard2.0\ref\Note_Making_App_Group1.dll
+C:\Users\kulde\source\repos\Note_Making_App_Group1\Note_Making_App_Group1\Note_Making_App_Group1\obj\Debug\netstandard2.0\Note_Making_App_Group1.pdb
+C:\Users\kulde\source\repos\Note_Making_App_Group1\Note_Making_App_Group1\Note_Making_App_Group1\obj\Debug\netstandard2.0\Note_Making_App_Group1.csprojAssemblyReference.cache
